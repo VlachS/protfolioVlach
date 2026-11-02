@@ -1,0 +1,6 @@
+{
+  "name": "Šimon Vlach — Osobní portfolio",
+  "description": "Osobní portfolio Šimona Vlacha — studenta oboru Informační studia a knihovnictví FF MUNI a výkupaře v online antikvariátu Restorio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
